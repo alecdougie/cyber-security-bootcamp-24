@@ -1,0 +1,8 @@
+
+# The following results are from "Dealer_working_during_losses.txt", see file for further information.
+
+Billy Jones is the primary roulette dealer who worked during when losses occured (on March 10th, 12th, and 15th).
+
+Billy Jones was shown to be working a total of 13 times during the specifed dates (specifically during time of losses).
+
+Billy Jones worked once per loss hour (see "Dealers_working_during_losses.txt" file for exact times)
