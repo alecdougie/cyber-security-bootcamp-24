@@ -1,0 +1,62 @@
+
+# The following results are from the "Roulette_Dealer_Append_Script.sh", are only roulette specific dealers and we're directly appended into this file
+
+
+Date: 0310
+Time: 05:00:00 AM
+Dealer: Billy Jones
+
+
+Date: 0310
+Time: 08:00:00 AM
+Dealer: Billy Jones
+
+
+Date: 0310
+Time: 02:00:00 PM
+Dealer: Billy Jones
+
+
+Date: 0310
+Time: 08:00:00 PM
+Dealer: Billy Jones
+
+
+Date: 0310
+Time: 11:00:00 PM
+Dealer: Billy Jones
+
+
+Date: 0312
+Time: 05:00:00 AM
+Dealer: Billy Jones
+
+
+Date: 0312
+Time: 08:00:00 AM
+Dealer: Billy Jones
+
+
+Date: 0312
+Time: 02:00:00 PM
+Dealer: Billy Jones
+
+
+Date: 0312
+Time: 11:00:00 PM
+Dealer: Billy Jones
+
+
+Date: 0315
+Time: 05:00:00 AM
+Dealer: Billy Jones
+
+
+Date: 0315
+Time: 08:00:00 AM
+Dealer: Billy Jones
+
+
+Date: 0315
+Time: 02:00:00 PM
+Dealer: Billy Jones
