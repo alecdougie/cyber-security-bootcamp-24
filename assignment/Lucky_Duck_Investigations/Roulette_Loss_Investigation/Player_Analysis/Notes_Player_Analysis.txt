@@ -1,0 +1,82 @@
+# The following results are from the "Roulette_Losses.txt" file, see file for further information
+
+
+# Date + Loss Times:
+
+# --- March 10th (0310)
+
+05:00:00 AM
+08:00:00 AM
+02:00:00 PM
+08:00:00 PM
+11:00:00 PM
+
+# --- March 12th (0312)
+
+05:00:00 AM
+08:00:00 AM
+02:00:00 PM
+08:00:00 PM
+11:00:00 PM
+
+# --- March 15th (0315)
+
+05:00:00 AM
+08:00:00 AM
+02:00:00 PM
+
+# -----------------------
+
+
+
+# Date & Loss Times + Associated Player Names:
+
+# --- March 10th (0310)
+
+05:00:00 AM -> Amirah Schneider, Nola Portillo, Mylie Schmidt, Suhayb Maguire, Millicent Betts, Avi Graves
+08:00:00 AM -> Chanelle Tapia, Shelley Dodson , Valentino Smith, Mylie Schmidt
+02:00:00 PM -> Jaden Clarkson, Kaidan Sheridan, Mylie Schmidt
+08:00:00 PM -> Mylie Schmidt, Trixie Velasquez, Jerome Klein, Rahma Buckley
+11:00:00 PM -> Mcfadden Wasim, Norman Cooper, Mylie Schmidt
+
+# --- March 12th (0312)
+
+05:00:00 AM -> Montana Kirk, Alysia Goodman, Halima Little, Etienne Brady, Mylie Schmidt
+08:00:00 AM -> Rimsha Gardiner, Fern Cleveland, Mylie Schmidt, Kobe Higgins
+02:00:00 PM -> Mae Hail, Mylie Schmidt, Ayden Beil
+08:00:00 PM -> Tallulah Rawlings, Josie Dawe, Mylie Schmidt, Hakim Stott, Esther Callaghan, Ciaron Villanueva
+11:00:00 PM -> Vlad Hatfield, Kerys Frazier, Mya Butler, Mylie Schmidt, Lex Oakley, Elin Wormald
+
+# --- March 15th (0315)
+
+05:00:00 AM -> Arjan Guzman, Sommer Mann, Mylie Schmidt
+08:00:00 AM -> Lilianna Devlin, Brendan Lester, Mylie Schmidt, Blade Robertson, Derrick Schroeder
+02:00:00 PM -> Mylie Schmidt, Corey Huffman
+
+# -----------------------
+
+
+# Unique Associated Player Names + Amount Shown During Requested 3 Days (March 10, 12, and 15):
+
+# Possible "Player" Suspect Being -> Mylie Schmidt due to playing during each loss time.
+
+1 - Alysia Goodman
+1 - Amirah Schneider
+1 - Avi Graves
+1 - Chanelle Tapia
+1 - Etienne Brady
+1 - Halima Little
+1 - Jaden Clarkson
+1 - Kaidan Sheridan
+1 - Mcfadden Wasim
+1 - Millicent Betts
+1 - Montana Kirk
+13 - Mylie Schmidt
+1 - Nola Portillo
+1 - Norman Cooper
+1 - Shelley Dodson
+1 - Suhayb Maguire
+1 - Valentino Smith
+
+
+# -----------------------
